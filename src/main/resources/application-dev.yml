@@ -1,0 +1,4 @@
+guru:
+    username: devymluser
+    password: devymlpassword
+    jdbcurl: devymlUrlForDB
